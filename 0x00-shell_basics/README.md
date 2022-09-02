@@ -1,1 +1,2 @@
-display the contents list of your current directort
+
+Write a script that changes the working directory to the user’s home directory
