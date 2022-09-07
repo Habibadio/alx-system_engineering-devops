@@ -1,4 +1,5 @@
 #!/bin/bash
-echo Aca | tr Ac Ze
+iread -p "Insert word: " word
+echo $word | tr Ac Ze
 
 
